@@ -1,2 +1,3 @@
 this is sample git remote
 repositary file
+adding third line in remote repositary from office
